@@ -1,0 +1,240 @@
+[Root]
+Most Recent Package=OASYS SETUP PACKAGE
+
+
+[Package|OASYS SETUP PACKAGE|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\OASYS
+
+[Package|OASYS SETUP PACKAGE|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|OASYS SETUP PACKAGE|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|OASYS SETUP PACKAGE|Files Found]
+craxdrt.dll=C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll
+
+[Package|OASYS SETUP PACKAGE|Files Released]
+
+[Package|OASYS SETUP PACKAGE|Missing Dependency Information]
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|OASYS SETUP PACKAGE|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|OASYS SETUP PACKAGE|Files Added]
+c:\project\project97.mdb=
+c:\project\flash\about.swf=
+c:\project\flash\creditsscreen.swf=
+c:\project\reports\attendance\employee attendance records.rpt=
+c:\project\reports\attendance\monthly attendance records.rpt=
+c:\project\reports\attendance\monthly attendance slip.rpt=
+c:\project\reports\employee details\rptempcontact.rpt=
+c:\project\reports\employee details\rptemporg.rpt=
+c:\project\reports\employee details\rptemppersonaldetails.rpt=
+c:\project\reports\employee details\rpticard.rpt=
+c:\project\reports\leave\rptempleave.rpt=
+c:\project\reports\list\rptcastelist.rpt=
+c:\project\reports\list\rptclasslist.rpt=
+c:\project\reports\list\rptdesignationlist.rpt=
+c:\project\reports\list\rptsectionlist.rpt=
+c:\project\reports\list\rpttypelist.rpt=
+c:\project\reports\payslip\rptpayslip.rpt=
+c:\project\reports\profitloss\monthlyprofitloss.rpt=
+c:\project\reports\retirement\rptdatewiseret.rpt=
+c:\project\reports\retirement\rptempret.rpt=
+c:\project\reports\retirement\rptretiredemployees.rpt=
+
+[Package|OASYS SETUP PACKAGE|Files Removed]
+
+[Package|OASYS SETUP PACKAGE|Files In Project]
+C:\Project\Office Automation.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Project\Project97.mdb=Yes
+C:\Project\Flash\About.swf=Yes
+C:\Project\Flash\CreditsScreen.swf=Yes
+C:\Project\Reports\Attendance\Employee Attendance Records.rpt=Yes
+C:\Project\Reports\Attendance\Monthly Attendance Records.rpt=Yes
+C:\Project\Reports\Attendance\MONTHLY ATTENDANCE SLIP.rpt=Yes
+C:\Project\Reports\Employee Details\rptEmpContact.rpt=Yes
+C:\Project\Reports\Employee Details\rptEmpOrg.rpt=Yes
+C:\Project\Reports\Employee Details\rptEmpPersonalDetails.rpt=Yes
+C:\Project\Reports\Employee Details\rptICard.rpt=Yes
+C:\Project\Reports\Leave\rptEmpLeave.rpt=Yes
+C:\Project\Reports\List\rptCasteList.rpt=Yes
+C:\Project\Reports\List\rptClassList.rpt=Yes
+C:\Project\Reports\List\rptDesignationList.rpt=Yes
+C:\Project\Reports\List\rptSectionList.rpt=Yes
+C:\Project\Reports\List\rptTypeList.rpt=Yes
+C:\Project\Reports\PaySlip\rptPaySlip.rpt=Yes
+C:\Project\Reports\ProfitLoss\MonthlyProfitLoss.rpt=Yes
+C:\Project\Reports\Retirement\rptDatewiseRet.rpt=Yes
+C:\Project\Reports\Retirement\rptEmpRet.rpt=Yes
+C:\Project\Reports\Retirement\rptRetiredEmployees.rpt=Yes
+
+[Package|OASYS SETUP PACKAGE|Configure Registry Files]
+Applicable=No
+
+[Package|OASYS SETUP PACKAGE|Configure Remote Servers]
+Applicable=No
+
+[Package|OASYS SETUP PACKAGE|Install Locations]
+C:\Project\Office Automation.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Project\Project97.mdb=$(AppPath)
+C:\Project\Flash\About.swf=$(AppPath)\Flash
+C:\Project\Flash\CreditsScreen.swf=$(AppPath)\Flash
+C:\Project\Reports\Attendance\Employee Attendance Records.rpt=$(AppPath)\Reports\Attendance
+C:\Project\Reports\Attendance\Monthly Attendance Records.rpt=$(AppPath)\Reports\Attendance
+C:\Project\Reports\Attendance\MONTHLY ATTENDANCE SLIP.rpt=$(AppPath)\Reports\Attendance
+C:\Project\Reports\Employee Details\rptEmpContact.rpt=$(AppPath)\Reports\Employee Details
+C:\Project\Reports\Employee Details\rptEmpOrg.rpt=$(AppPath)\Reports\Employee Details
+C:\Project\Reports\Employee Details\rptEmpPersonalDetails.rpt=$(AppPath)\Reports\Employee Details
+C:\Project\Reports\Employee Details\rptICard.rpt=$(AppPath)\Reports\Employee Details
+C:\Project\Reports\Leave\rptEmpLeave.rpt=$(AppPath)\Reports\Leave
+C:\Project\Reports\List\rptCasteList.rpt=$(AppPath)\Reports\List
+C:\Project\Reports\List\rptClassList.rpt=$(AppPath)\Reports\List
+C:\Project\Reports\List\rptDesignationList.rpt=$(AppPath)\Reports\List
+C:\Project\Reports\List\rptSectionList.rpt=$(AppPath)\Reports\List
+C:\Project\Reports\List\rptTypeList.rpt=$(AppPath)\Reports\List
+C:\Project\Reports\PaySlip\rptPaySlip.rpt=$(AppPath)\Reports\PaySlip
+C:\Project\Reports\ProfitLoss\MonthlyProfitLoss.rpt=$(AppPath)\Reports\ProfitLoss
+C:\Project\Reports\Retirement\rptDatewiseRet.rpt=$(AppPath)\Reports\Retirement
+C:\Project\Reports\Retirement\rptEmpRet.rpt=$(AppPath)\Reports\Retirement
+C:\Project\Reports\Retirement\rptRetiredEmployees.rpt=$(AppPath)\Reports\Retirement
+
+[Package|OASYS SETUP PACKAGE|Configure Shared Files]
+Applicable=Yes
+C:\Project\Office Automation.exe=No
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Project\Project97.mdb=No
+C:\Project\Flash\About.swf=No
+C:\Project\Flash\CreditsScreen.swf=No
+C:\Project\Reports\Attendance\Employee Attendance Records.rpt=No
+C:\Project\Reports\Attendance\Monthly Attendance Records.rpt=No
+C:\Project\Reports\Attendance\MONTHLY ATTENDANCE SLIP.rpt=No
+C:\Project\Reports\Employee Details\rptEmpContact.rpt=No
+C:\Project\Reports\Employee Details\rptEmpOrg.rpt=No
+C:\Project\Reports\Employee Details\rptEmpPersonalDetails.rpt=No
+C:\Project\Reports\Employee Details\rptICard.rpt=No
+C:\Project\Reports\Leave\rptEmpLeave.rpt=No
+C:\Project\Reports\List\rptCasteList.rpt=No
+C:\Project\Reports\List\rptClassList.rpt=No
+C:\Project\Reports\List\rptDesignationList.rpt=No
+C:\Project\Reports\List\rptSectionList.rpt=No
+C:\Project\Reports\List\rptTypeList.rpt=No
+C:\Project\Reports\PaySlip\rptPaySlip.rpt=No
+C:\Project\Reports\ProfitLoss\MonthlyProfitLoss.rpt=No
+C:\Project\Reports\Retirement\rptDatewiseRet.rpt=No
+C:\Project\Reports\Retirement\rptEmpRet.rpt=No
+C:\Project\Reports\Retirement\rptRetiredEmployees.rpt=No
+
+[Package|OASYS SETUP PACKAGE|Distribution]
+Type=multi
+Size=1.44 MB
+Title=OASYS
+
+[Package|OASYS SETUP PACKAGE|IconGroups]
+Group0=OASYS
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|OASYS SETUP PACKAGE|OASYS]
+Icon1="Office Automation.exe"
+Title1=OASYS
+StartIn1=$(AppPath)
+Key1=Icon1
